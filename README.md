@@ -34,3 +34,7 @@ Deploy to the main website:
 ## Non-executable lectures
 
 These are named `lecture_XX.pdf`.
+
+## Course notes
+
+[The notes](notes/README.md) provide a source-traceable guide to all 17 Spring 2026 lectures. They connect the conceptual material to the engineering decisions it informs while leaving the lecture files as the canonical source.
